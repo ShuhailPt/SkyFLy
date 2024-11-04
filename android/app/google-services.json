@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087081109631",
+    "project_id": "skyfly-3bf6a",
+    "storage_bucket": "skyfly-3bf6a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087081109631:android:93a968c68521826342874a",
+        "android_client_info": {
+          "package_name": "com.example.sky_fly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm4yc7zlnkdlYpoyZ_dqms8E_D83nrKXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
